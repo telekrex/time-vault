@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-# Time Vault
-# Written by telekrex
-# ///////////////////////////////////////////////
+# Time Vault | Written by telekrex | Public domain
+
 # Edit the values in this file as you like, then
 # run it in your terminal of choice, or compile
 # it using build tooling of choice...
